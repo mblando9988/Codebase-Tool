@@ -1,0 +1,4 @@
+---
+# The fixtures are test data in other languages (with deliberately awkward content), not code to lint.
+exclude_paths:
+  - "rust-cli/fixtures/**"

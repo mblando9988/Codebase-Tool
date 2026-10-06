@@ -1,0 +1,1 @@
+export function noNewline(): number { return 1; }

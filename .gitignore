@@ -1,0 +1,8 @@
+target/
+.DS_Store
+*.pyc
+__pycache__/
+.codebase-context/
+*.zip
+*.tar.gz
+dist/
